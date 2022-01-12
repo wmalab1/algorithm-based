@@ -1,1 +1,1 @@
-# jscc_mimo_parameteric_approach
+# algorithm-based
